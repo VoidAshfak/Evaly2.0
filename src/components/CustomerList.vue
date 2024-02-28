@@ -50,8 +50,8 @@ const editCustomer = async (customer) => {
         username:customer.username,
         password:customer.password,
         name:{
-            firstname:"Asif",
-            lastname:"Ahnik"
+            firstname:"Ashfak",
+            lastname:"Asif"
         },
         address:{
             city:customer.address.city,
