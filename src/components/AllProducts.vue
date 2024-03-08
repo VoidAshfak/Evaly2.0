@@ -49,9 +49,10 @@ onMounted(() => apiCall());
 	flex-direction: column;
 	justify-content: flex-end;
 	transition: 0.2s;
+	
 }
 .card:hover {
-	box-shadow: 2px 2px 15px rgba(0,0,0,0.2);
+	box-shadow: 2px 2px 15px rgba(39, 11, 255, 0.2);
 	transition-delay: 150ms;
 }
 .card img {
